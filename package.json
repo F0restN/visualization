@@ -1,0 +1,9 @@
+{
+  "name": "Visulization",
+  "version": "1.0.0",
+  "dependencies": {
+    "echarts": "^5.2.2",
+    "jquery": "^3.6.0",
+    "node-xlsx": "^0.17.2"
+  }
+}
